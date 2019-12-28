@@ -1,0 +1,562 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2019-12-28T16:55:20+03:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///C:/Users/User/Desktop/Игорь/BadComedian о 'Движении вверх', рэп-батлах и российском youtube. По-живому — копия.wav" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="./BadComedian о 'Движении вверх', рэп-батлах и российском youtube. По-живому — копия.wav"/>
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///C:/Users/User/Desktop/Игорь/BadComedian о 'Движении вверх', рэп-батлах и российском youtube. По-живому.mp4" MIME_TYPE="video/mp4" RELATIVE_MEDIA_URL="./BadComedian о 'Движении вверх', рэп-батлах и российском youtube. По-живому.mp4"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:3ab5eb37-33d2-4395-99c4-26d9de3efb89</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">117</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="1926939"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="1929695"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="1930059"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="1939000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="1939055"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="1949123"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="1949138"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="1950944"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="1951429"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="1951748"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="1952637"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="1953932"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="1954025"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="1979627"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="1979636"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="1979641"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="1980471"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="1980490"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="1980570"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="1987697"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="1988039"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="1989365"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="1989904"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="1990161"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="1990482"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="1994566"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="1994648"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="1995052"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="1995794"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="1995795"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="1996768"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="1997260"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="1997889"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="1998453"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="1999138"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="2004838"/>
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="2005241"/>
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="2027221"/>
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="2027771"/>
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="2032665"/>
+        <TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="2033555"/>
+        <TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="2038698"/>
+        <TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="2040240"/>
+        <TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="2041212"/>
+        <TIME_SLOT TIME_SLOT_ID="ts45" TIME_VALUE="2042012"/>
+        <TIME_SLOT TIME_SLOT_ID="ts46" TIME_VALUE="2046625"/>
+        <TIME_SLOT TIME_SLOT_ID="ts47" TIME_VALUE="2047695"/>
+        <TIME_SLOT TIME_SLOT_ID="ts48" TIME_VALUE="2051081"/>
+        <TIME_SLOT TIME_SLOT_ID="ts49" TIME_VALUE="2051397"/>
+        <TIME_SLOT TIME_SLOT_ID="ts50" TIME_VALUE="2053217"/>
+        <TIME_SLOT TIME_SLOT_ID="ts51" TIME_VALUE="2054173"/>
+        <TIME_SLOT TIME_SLOT_ID="ts52" TIME_VALUE="2080135"/>
+        <TIME_SLOT TIME_SLOT_ID="ts53" TIME_VALUE="2080250"/>
+        <TIME_SLOT TIME_SLOT_ID="ts54" TIME_VALUE="2081635"/>
+        <TIME_SLOT TIME_SLOT_ID="ts55" TIME_VALUE="2082362"/>
+        <TIME_SLOT TIME_SLOT_ID="ts56" TIME_VALUE="2082999"/>
+        <TIME_SLOT TIME_SLOT_ID="ts57" TIME_VALUE="2085317"/>
+        <TIME_SLOT TIME_SLOT_ID="ts58" TIME_VALUE="2091076"/>
+        <TIME_SLOT TIME_SLOT_ID="ts59" TIME_VALUE="2092123"/>
+        <TIME_SLOT TIME_SLOT_ID="ts60" TIME_VALUE="2114407"/>
+        <TIME_SLOT TIME_SLOT_ID="ts61" TIME_VALUE="2114926"/>
+        <TIME_SLOT TIME_SLOT_ID="ts62" TIME_VALUE="2124523"/>
+        <TIME_SLOT TIME_SLOT_ID="ts63" TIME_VALUE="2125378"/>
+        <TIME_SLOT TIME_SLOT_ID="ts64" TIME_VALUE="2144976"/>
+        <TIME_SLOT TIME_SLOT_ID="ts65" TIME_VALUE="2145544"/>
+        <TIME_SLOT TIME_SLOT_ID="ts66" TIME_VALUE="2146793"/>
+        <TIME_SLOT TIME_SLOT_ID="ts67" TIME_VALUE="2147139"/>
+        <TIME_SLOT TIME_SLOT_ID="ts68" TIME_VALUE="2154375"/>
+        <TIME_SLOT TIME_SLOT_ID="ts69" TIME_VALUE="2155068"/>
+        <TIME_SLOT TIME_SLOT_ID="ts70" TIME_VALUE="2196500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts71" TIME_VALUE="2196687"/>
+        <TIME_SLOT TIME_SLOT_ID="ts72" TIME_VALUE="2198550"/>
+        <TIME_SLOT TIME_SLOT_ID="ts73" TIME_VALUE="2198636"/>
+        <TIME_SLOT TIME_SLOT_ID="ts74" TIME_VALUE="2226363"/>
+        <TIME_SLOT TIME_SLOT_ID="ts75" TIME_VALUE="2226600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts76" TIME_VALUE="2227635"/>
+        <TIME_SLOT TIME_SLOT_ID="ts77" TIME_VALUE="2227657"/>
+        <TIME_SLOT TIME_SLOT_ID="ts78" TIME_VALUE="2268363"/>
+    </TIME_ORDER>
+    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="default"/>
+    <TIER ANNOTATOR="Игорь Дятлов" LINGUISTIC_TYPE_REF="utterance" PARTICIPANT="@kvs1980m" TIER_ID="@kvs1980m-text">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1" TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE>ты дважды уже по-моему проехался со стендап-шоу по стране правильно / соответственно ты мог оценить / чего твоя аудитория про тебя думает / и вот эти вещи они заходят доходят не доходят или / или просто поржать народ собирается</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2" TIME_SLOT_REF1="ts6" TIME_SLOT_REF2="ts9">
+                <ANNOTATION_VALUE>и что же не удавалось никак с залом пообщаться и понять вообще</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3" TIME_SLOT_REF1="ts10" TIME_SLOT_REF2="ts13">
+                <ANNOTATION_VALUE>кто / кто эти люди которые [нрзб]</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4" TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts19">
+                <ANNOTATION_VALUE>[смеются]</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5" TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts22">
+                <ANNOTATION_VALUE>ну это было бы интересно</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6" TIME_SLOT_REF1="ts24" TIME_SLOT_REF2="ts27">
+                <ANNOTATION_VALUE>нет не не меня честно мне интересно вот то что ты говоришь / я я видел этих блогеров</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7" TIME_SLOT_REF1="ts29" TIME_SLOT_REF2="ts33">
+                <ANNOTATION_VALUE>этих этих ваших блогеров я видел</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8" TIME_SLOT_REF1="ts34" TIME_SLOT_REF2="ts39">
+                <ANNOTATION_VALUE>я старый человек я пришел для того чтобы сказать им что ребята вы существуете в другой реальности / вот ты из Стерлитамака если не ошибаюсь да / из из Башкортостана из Башкирии ты так сказать / не так давно я был в Уфе и я разговаривал там на большом форуме о бедности и вообще с народом общался по поводу того что происходит / в промышленности в сельском хозяйстве / и не только в Башкирии а вообще в целом в стране ситуация у нас / мягко говоря не очень / веселая не очень / много поводов для радости / за последние полгода я посмотрел из Башкирии уехало пятьдесят четыре тысячи человек </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9" TIME_SLOT_REF1="ts40" TIME_SLOT_REF2="ts43">
+                <ANNOTATION_VALUE>да и / в этом смысле я хотел бы подчеркнуть что девяностые и / нынешнее время это не две разные эпохи / это эпохи</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a39" TIME_SLOT_REF1="ts44" TIME_SLOT_REF2="ts45">
+                <ANNOTATION_VALUE>да</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10" TIME_SLOT_REF1="ts46" TIME_SLOT_REF2="ts53">
+                <ANNOTATION_VALUE>да / да да да да / у нашего / даже / кинематографического / крокодила выросли / зубы и он он стал большим и прожорливым он он жрет больше чем раньше но я не об этом / а о том что вот я пообщался с этими замечательными ребятами и я пытался им объяснить / наивно / по-старчески пытался им объяснить что вот из этого воздушного замка в котором они пребывают  где / миллионы подписчиков где / большие заказы большие зарплаты и человек может там / махнув пальцев наня... на... нанять себе семьдесят человек в обслугу и которые будут таскать за ним свет держать микрофон и выкладывать это де... богатство в ютуб</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11" TIME_SLOT_REF1="ts54" TIME_SLOT_REF2="ts55">
+                <ANNOTATION_VALUE>[нрзб]</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12" TIME_SLOT_REF1="ts56" TIME_SLOT_REF2="ts65">
+                <ANNOTATION_VALUE>вы боги вы фараоны ютьюба да вот с этими людьми с фараонами с этими я разговаривал и я пытался им сказать что / это все царство не вечно оно не может стоять на курьих ножках всегда оно рано или поздно рухнет под давлением того самого базиса / потому что нельзя жить все время / в кинотеатре или в ютубе нельзя кормиться позавчерашними победами необходимо / реально ежедневно подтверждать свое право / на то чтобы вот так вот роскошно / и / беззаботно существовать / вот и поэтому все-таки мнения и настроения твоей аудитории мне интересны потому что в этом сонме небожителей ютубовских ты белая овца по крайней мере так выглядит это со стороны да ты осмеливаешься говорить вещи которые / царапают ухо / Дудя / которые раздражают многих из них / которые [нрзб] / Сталин / Сталин / Сталин оказывается может быть ему и молодому человеку понятен потому что Сталин тоже когда-то в свое время был молод и что-то побудило какая-то / сторона жизни тогдашней побудила Сталина молодого Сталина взяться за булыжник / и не одного Сталина это ведь все не дедушки и бабушки мохнатые делали / то что происходило в семнадцатом году</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a30" TIME_SLOT_REF1="ts66" TIME_SLOT_REF2="ts69">
+                <ANNOTATION_VALUE>да ну вот мне интересно молодая аудитория которую ты увидел ты / успел почувствовать смог почувствовать ты в пустоту говоришь ты с мельницами говоришь или нет </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a31" TIME_SLOT_REF1="ts71" TIME_SLOT_REF2="ts72">
+                <ANNOTATION_VALUE>спецприглашенных</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a32" TIME_SLOT_REF1="ts75" TIME_SLOT_REF2="ts77">
+                <ANNOTATION_VALUE>через забор</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="Игорь Дятлов" LINGUISTIC_TYPE_REF="utterance" PARTICIPANT="@evb1991m" TIER_ID="@evb1991m-text">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13" TIME_SLOT_REF1="ts2" TIME_SLOT_REF2="ts3">
+                <ANNOTATION_VALUE>да</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14" TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts7">
+                <ANNOTATION_VALUE>да на стендап в стендап эээ я собирал только ээ рассказывал истории непосредственно ээ как мы / наше приключение там по Америке как мы ездили и так далее </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15" TIME_SLOT_REF1="ts8" TIME_SLOT_REF2="ts11">
+                <ANNOTATION_VALUE>нет / общение было</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a16" TIME_SLOT_REF1="ts12" TIME_SLOT_REF2="ts14">
+                <ANNOTATION_VALUE>эээ общение был ну это эээ молодые люди / кто-то учится в институте / кто-то работает / то есть обычные обычные / люди / даже сложно как-то сказать / есть и моментами удивляли там / самый забавный случай когда эээ подошел мужчина лет тридцати / и попросил подписаться / для Светки напиши / я такой / а кто это / мама моя</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a17" TIME_SLOT_REF1="ts16" TIME_SLOT_REF2="ts17">
+                <ANNOTATION_VALUE>[смеются]</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a18" TIME_SLOT_REF1="ts18" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE>это вот такие ну то есть абсолютно разношерстная публика / я не спрашивал что вы думаете насчет обзоров потому что это было бы странно </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a19" TIME_SLOT_REF1="ts23" TIME_SLOT_REF2="ts25">
+                <ANNOTATION_VALUE>я читаю</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a20" TIME_SLOT_REF1="ts26" TIME_SLOT_REF2="ts28">
+                <ANNOTATION_VALUE>ъгъм</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a21" TIME_SLOT_REF1="ts30" TIME_SLOT_REF2="ts31">
+                <ANNOTATION_VALUE>я видел</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a22" TIME_SLOT_REF1="ts32" TIME_SLOT_REF2="ts35">
+                <ANNOTATION_VALUE>я видел замечательный фрагмент</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a23" TIME_SLOT_REF1="ts36" TIME_SLOT_REF2="ts37">
+                <ANNOTATION_VALUE>да</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a24" TIME_SLOT_REF1="ts38" TIME_SLOT_REF2="ts41">
+                <ANNOTATION_VALUE>я думаю что невеселая она была в девяностых сейчас она вообще / очень / рыдательная / скажем так</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a25" TIME_SLOT_REF1="ts42" TIME_SLOT_REF2="ts47">
+                <ANNOTATION_VALUE>да и я пришел к этой идее / то есть у меня до этого была идея что раньше было хуже ээ это просто опять же та же эволюция как и с [нрзб]</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a26" TIME_SLOT_REF1="ts48" TIME_SLOT_REF2="ts49">
+                <ANNOTATION_VALUE>да</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a27" TIME_SLOT_REF1="ts50" TIME_SLOT_REF2="ts51">
+                <ANNOTATION_VALUE>да да да</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a28" TIME_SLOT_REF1="ts52" TIME_SLOT_REF2="ts57">
+                <ANNOTATION_VALUE>даже уже не надо монтировать раньше же надо было монтировать сейчас уже не надо</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a29" TIME_SLOT_REF1="ts58" TIME_SLOT_REF2="ts59">
+                <ANNOTATION_VALUE>безусловно</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a33" TIME_SLOT_REF1="ts60" TIME_SLOT_REF2="ts61">
+                <ANNOTATION_VALUE>ъгъм</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a34" TIME_SLOT_REF1="ts62" TIME_SLOT_REF2="ts63">
+                <ANNOTATION_VALUE>нашего великого</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a35" TIME_SLOT_REF1="ts64" TIME_SLOT_REF2="ts67">
+                <ANNOTATION_VALUE>вот умрут все совки заживем</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a36" TIME_SLOT_REF1="ts68" TIME_SLOT_REF2="ts70">
+                <ANNOTATION_VALUE>я вспомнил замечательный я же вспомнил замечательный случай это эээ прошу рассматривать только как / юмористический эээ / юмористическую зарисовку пожалуйста не сажайте меня эээ это замечательный был случай в / в каком же городе / простите я забыл город но тем не менее / был замечательный случай когда / ээ нас обманули ээ организаторы клуба / точнее не обманули они ошиблись не не было какого-то заведомого обмана с целью нажиться они скорее всего просто ошиблись / и эээ сказали что в клубе очень много людей помещается / ноо / там помещалось действительно много людей но дело в том что у нас очень много было ВИПов / ээ</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a37" TIME_SLOT_REF1="ts73" TIME_SLOT_REF2="ts74">
+                <ANNOTATION_VALUE>не нет / ВИПов имеется в виду / дорогие билеты те кто сядет эээ сядет за столики могут заказывать и так далее а кто-то стоит / и / надо было им выкручиваться как-то и они ничего не нашли умнее как вот люди за столиком сидят и оградить толпу которой вот там очень тяжело что-то было видно / просто обычным железным забором / и вот а я катался как раз в семнадцатом году / ээ и стоит сказать что вот в том городе шутки про семнадцатый год заходили на ура </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a38" TIME_SLOT_REF1="ts76" TIME_SLOT_REF2="ts78">
+                <ANNOTATION_VALUE>ээ не я подходил к забору и ээ я ээ естественно подыгрывал что дескать щас я / к холопам схожу к этому быдлу / подходил к людям ээ к забору и шутил как раз про семнадцатый год что / ребята вы забыли / какой / на дворе год / и так далее вы щас смеетесь все а мы вот стоим [нрзб] народу эти шутки замечательно заходят / судя ээ по ээ вот подобному поведению аудитория / она c.. похожа / похожа на меня во многих не все / безусловно но многие ээ люди сходятся / со мной / во взглядах это логично в принципе они бы не смотрели если б не сходились / со мной ээ взглядами</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="Игорь Дятлов" LINGUISTIC_TYPE_REF="stress" PARENT_REF="@evb1991m-text" PARTICIPANT="@evb1991m" TIER_ID="@evb1991m-stress">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a79" ANNOTATION_REF="a13">
+                <ANNOTATION_VALUE>да</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a80" ANNOTATION_REF="a14">
+                <ANNOTATION_VALUE>да на стенда'п в стенда'п эээ я собира'л то'лько ээ расска'зывал исто'рии непосре'дственно ээ как мы / на'ше приключе'ние там по Аме'рике как мы е'здили и так да'лее</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a81" ANNOTATION_REF="a15">
+                <ANNOTATION_VALUE>нет / обще'ние бы'ло</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a82" ANNOTATION_REF="a16">
+                <ANNOTATION_VALUE>эээ обще'ние был ну э'то эээ молоды'е лю'ди / кто'-то у'чится в институ'те / кто'-то рабо'тает / то есть обы'чные обы'чные / лю'ди / да'же сло'жно ка'к-то сказа'ть / есть и моме'нтами удивля'ли там / са'мый заба'вный слу'чай когда' эээ подоше'л мужчи'на лет тридцати' / и попроси'л подписа'ться / для Све'тки напиши' / я тако'й / а кто э'то / ма'ма моя'</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a83" ANNOTATION_REF="a17">
+                <ANNOTATION_VALUE>[смеются]</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a84" ANNOTATION_REF="a18">
+                <ANNOTATION_VALUE>э'то вот таки'е ну то есть абсолю'тно разноше'рстная пу'блика / я не спра'шивал что вы ду'маете насче'т обзо'ров потому' что э'то бы'ло бы стра'нно </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a85" ANNOTATION_REF="a19">
+                <ANNOTATION_VALUE>я чита'ю</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a86" ANNOTATION_REF="a20">
+                <ANNOTATION_VALUE>ъгъм</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a87" ANNOTATION_REF="a21">
+                <ANNOTATION_VALUE>я ви'дел</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a88" ANNOTATION_REF="a22">
+                <ANNOTATION_VALUE>я ви'дел замеча'тельный фрагме'нт</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a89" ANNOTATION_REF="a23">
+                <ANNOTATION_VALUE>да</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a90" ANNOTATION_REF="a24">
+                <ANNOTATION_VALUE>я ду'маю что невесе'лая она' была' в девяно'стых сейча'с она' вообще' / о'чень / рыда'тельная / ска'жем так</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a91" ANNOTATION_REF="a25">
+                <ANNOTATION_VALUE>да и я прише'л к э'той иде'е / то есть у меня' до э'того была' иде'я что ра'ньше бы'ло ху'же ээ' э'то про'сто опя'ть же та же эволю'ция как и с [нрзб]</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a92" ANNOTATION_REF="a26">
+                <ANNOTATION_VALUE>да</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a93" ANNOTATION_REF="a27">
+                <ANNOTATION_VALUE>да да да</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a94" ANNOTATION_REF="a28">
+                <ANNOTATION_VALUE>да'же уже' не на'до монти'ровать ра'ньше же на'до бы'ло монти'ровать сейча'с уже' не на'до</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a95" ANNOTATION_REF="a29">
+                <ANNOTATION_VALUE>безусло'вно</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a96" ANNOTATION_REF="a33">
+                <ANNOTATION_VALUE>ъгъм</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a97" ANNOTATION_REF="a34">
+                <ANNOTATION_VALUE>на'шего вели'кого</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a98" ANNOTATION_REF="a35">
+                <ANNOTATION_VALUE>вот умру'т все совки' заживе'м</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a99" ANNOTATION_REF="a36">
+                <ANNOTATION_VALUE>я вспо'мнил замеча'тельный я же вспо'мнил замеча'тельный слу'чай э'то э'ээ прошу' рассма'тривать то'лько как / юмористи'ческий эээ / юмористи'ческую зарисо'вку пожа'луйста не сажа'йте меня' эээ э'то замеча'тельный был слу'чай в / в како'м же го'роде / прости'те я забы'л го'род но тем не ме'нее / был замеча'тельный слу'чай когда' / ээ нас обману'ли ээ организа'торы клу'ба / точне'е не обману'ли они' оши'блись не не бы'ло како'го-то заве'домого обма'на с це'лью нажи'ться они' скоре'е всего' про'сто оши'блись / и эээ сказа'ли что в клу'бе о'чень мно'го люде'й помеща'ется / ноо / там помеща'лось действи'тельно мно'го люде'й но де'ло в том что у нас о'чень мно'го бы'ло ВИПо'в / ээ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a100" ANNOTATION_REF="a37">
+                <ANNOTATION_VALUE>не нет / ВИПо'в име'ется в виду' / дороги'е биле'ты те кто ся'дет эээ ся'дет за сто'лики мо'гут зака'зывать и так да'лее а кто'-то стои'т / и / на'до бы'ло им выкру'чиваться ка'к-то и они' ничего' не нашли' умне'е как вот лю'ди за сто'ликом сидя'т и огради'ть толпу' кото'рой вот там о'чень тяжело' что'-то бы'ло ви'дно / про'сто обы'чным желе'зным забо'ром / и вот а я ката'лся как раз в семна'дцатом году' / ээ и сто'ит сказа'ть что вот в том го'роде шу'тки про семна'дцатый год заходи'ли на ура'  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a101" ANNOTATION_REF="a38">
+                <ANNOTATION_VALUE>ээ не я подходи'л к забо'ру и ээ я ээ есте'ственно поды'грывал что де'скать щас я / к холо'пам схожу' к э'тому бы'длу / подходи'л к лю'дям ээ к забо'ру и шути'л как раз про семна'дцатый год что / ребя'та вы забы'ли / како'й / на дворе' год / и так да'лее вы щас смеете'сь все а мы вот стои'м [нрзб] наро'ду э'ти шу'тки замеча'тельно захо'дят / су'дя ээ по ээ вот подо'бному поведе'нию аудито'рия / она' c.. похо'жа / похо'жа на меня' во мно'гих не все / безусло'вно но мно'гие ээ лю'ди схо'дятся / со мной / во взгля'дах э'то логи'чно в при'нципе они' бы не смотре'ли е'сли б не сходи'лись / со мной ээ взгля'дами</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="Игорь Дятлов" LINGUISTIC_TYPE_REF="stress" PARENT_REF="@kvs1980m-text" PARTICIPANT="@kvs1980m" TIER_ID="@kvs1980m-stress">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a102" ANNOTATION_REF="a1">
+                <ANNOTATION_VALUE>ты два'жды уже' по-мо'ему прое'хался со стендап-шо'у по стране' пра'вильно / соотве'тственно ты мог оцени'ть / чего' твоя' аудито'рия про тебя' ду'мает / и вот э'ти ве'щи они' захо'дят дохо'дят не дохо'дят и'ли / и'ли про'сто поржа'ть наро'д собира'ется</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a103" ANNOTATION_REF="a2">
+                <ANNOTATION_VALUE>и что же не удава'лось ника'к с за'лом пообща'ться и поня'ть вообще'</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a104" ANNOTATION_REF="a3">
+                <ANNOTATION_VALUE>кто / кто э'ти лю'ди кото'рые [нрзб]</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a105" ANNOTATION_REF="a4">
+                <ANNOTATION_VALUE>[смеются]</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a106" ANNOTATION_REF="a5">
+                <ANNOTATION_VALUE>ну э'то бы'ло бы интере'сно</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a107" ANNOTATION_REF="a6">
+                <ANNOTATION_VALUE>нет не не меня' че'стно мне интере'сно вот то что ты говори'шь / я я ви'дел э'тих бло'геров</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a108" ANNOTATION_REF="a7">
+                <ANNOTATION_VALUE>э'тих э'тих ва'ших бло'геров я ви'дел</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a109" ANNOTATION_REF="a8">
+                <ANNOTATION_VALUE>я ста'рый челове'к я прише'л для того' что'бы сказа'ть им что ребя'та вы существу'ете в друго'й реа'льности / вот ты из Стерлитама'ка е'сли не ошиба'юсь да / из из Башкортоста'на из Башки'рии ты так сказа'ть / не так давно' я был в Уфе' и я разгова'ривал там на большо'м фо'руме о бе'дности и вообще' с наро'дом обща'лся по по'воду того' что происхо'дит / в промы'шленности в се'льском хозя'йстве / и не то'лько в Башки'рии а вообще' в це'лом в стране' ситуа'ция у нас / мя'гко говоря' не о'чень / весела'я не о'чень / мно'го по'водов для ра'дости / за после'дние полго'да я посмотре'л из Башки'рии уе'хало пятьдеся'т четы'ре ты'сячи челове'к  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a110" ANNOTATION_REF="a9">
+                <ANNOTATION_VALUE>да и / в э'том смы'сле я хоте'л бы подчеркну'ть что девяно'стые и / ны'нешнее вре'мя э'то не две ра'зные эпо'хи / э'то эпо'хи</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a111" ANNOTATION_REF="a39">
+                <ANNOTATION_VALUE>да</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a112" ANNOTATION_REF="a10">
+                <ANNOTATION_VALUE>да / да да да да / у на'шего / да'же / кинематографи'ческого / крокоди'ла вы'росли / зу'бы и он он стал больши'м и прожо'рливым он он жрет бо'льше чем ра'ньше но я не об э'том / а о том что вот я пообща'лся с э'тими замеча'тельными ребя'тами и я пыта'лся им объясни'ть / наи'вно / по-ста'рчески пыта'лся им объясни'ть что вот из э'того возду'шного за'мка в кото'ром они' пребыва'ют  где / миллио'ны подпи'счиков где / больши'е зака'зы больши'е зарпла'ты и челове'к мо'жет там / махну'в па'льцев на'ня... на... наня'ть себе' се'мьдесят челове'к в обслу'гу и кото'рые бу'дут таска'ть за ним свет держа'ть микрофо'н и выкла'дывать э'то де... бога'тство в юту'б</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a113" ANNOTATION_REF="a11">
+                <ANNOTATION_VALUE>[нрзб]</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a114" ANNOTATION_REF="a12">
+                <ANNOTATION_VALUE>вы бо'ги вы фарао'ны ютью'ба да вот с э'тими людьми' с фарао'нами с э'тими я разгова'ривал и я пыта'лся им сказа'ть что / э'то все ца'рство не ве'чно оно' не мо'жет стоя'ть на ку'рьих но'жках всегда' оно' ра'но и'ли по'здно ру'хнет под давле'нием того' са'мого ба'зиса / потому' что нельзя' жить все вре'мя / в кинотеа'тре и'ли в юту'бе нельзя' корми'ться позавчера'шними побе'дами необходи'мо / реа'льно ежедне'вно подтвержда'ть свое' пра'во / на то что'бы вот так вот роско'шно / и / беззабо'тно существова'ть / вот и поэ'тому все-та'ки мне'ния и настрое'ния твое'й аудито'рии мне интере'сны потому' что в э'том со'нме небожи'телей юту'бовских ты бе'лая овца' по кра'йней ме'ре так вы'глядит э'то со стороны' да ты осме'ливаешься говори'ть ве'щи кото'рые / цара'пают у'хо / Дудя' / кото'рые раздража'ют мно'гих из них / кото'рые [нрзб] / Ста'лин / Ста'лин / Ста'лин ока'зывается мо'жет быть ему' и молодо'му челове'ку поня'тен потому' что Ста'лин то'же когда'-то в свое' вре'мя был мо'лод и что'-то побуди'ло кака'я-то / сторона' жи'зни тогда'шней побуди'ла Ста'лина молодо'го Ста'лина взя'ться за булы'жник / и не одного' Ста'лина э'то ведь все не де'душки и ба'бушки мохна'тые де'лали / то что происходи'ло в семна'дцатом году'</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a115" ANNOTATION_REF="a30">
+                <ANNOTATION_VALUE>да ну вот мне интере'сно молода'я аудито'рия кото'рую ты уви'дел ты / успе'л почу'вствовать смог почу'вствовать ты в пустоту' говори'шь ты с ме'льницами говори'шь и'ли нет  </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a116" ANNOTATION_REF="a31">
+                <ANNOTATION_VALUE>спецприглаше'нных</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a117" ANNOTATION_REF="a32">
+                <ANNOTATION_VALUE>че'рез забо'р</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="Игорь Дятлов" LINGUISTIC_TYPE_REF="words" PARENT_REF="@kvs1980m-text" PARTICIPANT="@kvs1980m" TIER_ID="@kvs1980m-word"/>
+    <TIER ANNOTATOR="Игорь Дятлов" LINGUISTIC_TYPE_REF="words" PARENT_REF="@evb1991m-text" PARTICIPANT="@evb1991m" TIER_ID="@evb1991m-words"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="utterance" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Time_Subdivision" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="words" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="phonetic_transcription" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="gestures" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Time_Subdivision" CONTROLLED_VOCABULARY_REF="Gesture phases" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="gesture_phases" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="gesture_meaning" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" CONTROLLED_VOCABULARY_REF="POS" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="part of speech" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="imported-sep" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="stress" TIME_ALIGNABLE="false"/>
+    <LANGUAGE LANG_DEF="http://cdb.iso.org/lg/CDB-00130975-001" LANG_ID="und" LANG_LABEL="undetermined (und)"/>
+    <CONSTRAINT DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+    <CONTROLLED_VOCABULARY CV_ID="POS">
+        <DESCRIPTION LANG_REF="und">Part of Speech</DESCRIPTION>
+        <CV_ENTRY_ML CVE_ID="cveid_abe5db55-3fe8-4efe-94f0-b3e4ca9796c5">
+            <CVE_VALUE DESCRIPTION="noun" LANG_REF="und">n</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_fa09555f-5836-4135-9f8c-02c91410fc1e">
+            <CVE_VALUE DESCRIPTION="verb" LANG_REF="und">v</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_19b6e743-1cd9-4a48-8401-ee35f614651f">
+            <CVE_VALUE DESCRIPTION="interjection" LANG_REF="und">int</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_995e53be-bc3f-40b1-9275-b6d73e5eeb14">
+            <CVE_VALUE DESCRIPTION="adjective" LANG_REF="und">adj</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_7b7ec7b5-d310-4b6e-bee0-49a6481949f4">
+            <CVE_VALUE DESCRIPTION="pronoun" LANG_REF="und">pro</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_9df3e904-eb34-44fe-b95b-92d24e72a4c1">
+            <CVE_VALUE DESCRIPTION="determiner" LANG_REF="und">det</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_19a5f296-5cae-477a-a7dd-7560a18add0d">
+            <CVE_VALUE DESCRIPTION="article" LANG_REF="und">art</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_a335bc30-b94a-45f6-a1f8-7f0041344cd6">
+            <CVE_VALUE DESCRIPTION="preposition" LANG_REF="und">prep</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_ff03ff29-eef4-472f-9e1d-c1fd92a80297">
+            <CVE_VALUE DESCRIPTION="adverb" LANG_REF="und">adv</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_5532d68e-5797-46ac-be1c-79687e00f336">
+            <CVE_VALUE DESCRIPTION="conj" LANG_REF="und">con</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_b1b07314-74b8-44bf-b37d-71f83e8ec179">
+            <CVE_VALUE DESCRIPTION="demonstrative pronoun" LANG_REF="und">dem</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_b1c0a65e-5e71-4add-9fc0-a19fec3202c6">
+            <CVE_VALUE DESCRIPTION="post" LANG_REF="und">post</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_a23fff11-63f3-4eb4-b42f-60742ca2a0ce">
+            <CVE_VALUE DESCRIPTION="particle" LANG_REF="und">part</CVE_VALUE>
+        </CV_ENTRY_ML>
+    </CONTROLLED_VOCABULARY>
+    <CONTROLLED_VOCABULARY CV_ID="Gesture phases">
+        <DESCRIPTION LANG_REF="und">Gesture phases</DESCRIPTION>
+        <CV_ENTRY_ML CVE_ID="cveid_4569df85-45b6-4bfd-8d56-7c5131165cac">
+            <CVE_VALUE DESCRIPTION="preparation" LANG_REF="und">preparation</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_05b5e5b2-4277-4638-acd3-53ae4602fc99">
+            <CVE_VALUE DESCRIPTION="stroke" LANG_REF="und">stroke</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_805f18e0-4e14-4905-aa65-993414ce5e82">
+            <CVE_VALUE DESCRIPTION="hold" LANG_REF="und">hold</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_394c8681-636c-4202-8a29-587cf36b5756">
+            <CVE_VALUE DESCRIPTION="partial retraction" LANG_REF="und">part.retraction</CVE_VALUE>
+        </CV_ENTRY_ML>
+    </CONTROLLED_VOCABULARY>
+</ANNOTATION_DOCUMENT>
